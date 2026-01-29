@@ -1,0 +1,28 @@
+# Cheating Detection System Requirements
+# Python 3.11.14 compatible
+# M2 MacBook Air optimized (no CUDA)
+
+# Core ML frameworks
+torch>=2.1.0
+torchvision>=0.16.0
+torchaudio>=2.1.0
+
+# YOLO detection
+ultralytics>=8.0.0
+
+# MediaPipe for face/hand detection
+mediapipe>=0.10.0
+
+# Computer vision
+opencv-python>=4.8.0
+
+# Numerical computing
+numpy>=1.24.0
+scipy>=1.11.0
+
+# Model backbones
+timm>=0.9.0
+
+# Utilities
+tqdm>=4.65.0
+pyyaml>=6.0
